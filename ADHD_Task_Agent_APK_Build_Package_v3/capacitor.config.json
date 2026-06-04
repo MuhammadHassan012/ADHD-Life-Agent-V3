@@ -1,0 +1,14 @@
+{
+  "appId": "com.asadali.adhdlifeagent",
+  "appName": "ADHD Life Agent",
+  "webDir": "dist",
+  "plugins": {
+    "LocalNotifications": {
+      "smallIcon": "ic_stat_icon_config_sample",
+      "iconColor": "#4f46e5"
+    }
+  },
+  "server": {
+    "androidScheme": "https"
+  }
+}
